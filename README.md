@@ -1,4 +1,3 @@
-# Hi there, I am Alessandro Sebastianelli 👋
 
 - 🔭 Currently working on AI and Quantum AI algorithms applied to Satellite imagery
 
